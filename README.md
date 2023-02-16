@@ -1,5 +1,5 @@
 # Getting Started with Create React App
-
+The live demo of the website  = https://weather-app-psi-gules.vercel.app/
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
